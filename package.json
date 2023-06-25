@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "17.9.3",
+    "@octokit/rest": "19.0.13",
     "cli-table": "0.3.1",
     "colors": "1.4.0",
     "group-array": "1.0.0",
